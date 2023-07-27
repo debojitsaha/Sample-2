@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/star_debojit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="star_debojit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/debojit-saha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/debojit-saha/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debojit-saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debojit-saha" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/debojitsaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="debojitsaha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/saha05debojit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saha05debojit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/debojitsaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="debojitsaha" height="30" width="40" /></a>
